@@ -47,7 +47,7 @@ public class AdvancedSolarHelmet extends SolarHelmet {
             Items.COPPER_PLATE, null, Items.COPPER_PLATE
         }),
         ENERGIZED(Items.ENERGIZED_SOLAR_HELMET, 3, new ItemStack[] {
-            null, SlimefunItems.SOLAR_GENERATOR_3, null,
+            null, SlimefunItems.SOLAR_GENERATOR_4, null,
             Items.GOLD_PLATE, Items.CARBONADO_SOLAR_HELMET, Items.GOLD_PLATE,
             Items.GOLD_PLATE, null, Items.GOLD_PLATE
         }),
